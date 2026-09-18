@@ -1,0 +1,31 @@
+{
+  "version": "20260918-home-v1",
+  "base_raw_url": "https://raw.githubusercontent.com/BlueSky684/widgy-large-dynamic-dashboard/main/assets/home-weather",
+  "widgy_weather_custom_images_symbol": {
+    "f3": {"widgy": "Sunny / Clear Day", "file": "clear_day.png"},
+    "g3": {"widgy": "Partly Cloudy Day", "file": "partly_cloudy_day.png"},
+    "h3": {"widgy": "Cloudy Day", "file": "cloudy.png"},
+    "i3": {"widgy": "Rain Day", "file": "light_rain.png"},
+    "j3": {"widgy": "Showers Day", "file": "heavy_rain.png"},
+    "k3": {"widgy": "Thunderstorm Day", "file": "thunderstorm.png"},
+    "l3": {"widgy": "Snow Day", "file": "snow.png"},
+    "m3": {"widgy": "Fog Day", "file": "fog.png"},
+    "n3": {"widgy": "Clear Night", "file": "clear_night.png"},
+    "o3": {"widgy": "Partly Cloudy Night", "file": "partly_cloudy_night.png"},
+    "p3": {"widgy": "Cloudy Night", "file": "cloudy.png"},
+    "q3": {"widgy": "Rain Night", "file": "night_rain.png"},
+    "r3": {"widgy": "Showers Night", "file": "night_rain.png"},
+    "s3": {"widgy": "Thunderstorm Night", "file": "night_thunderstorm.png"},
+    "t3": {"widgy": "Snow Night", "file": "snow.png"},
+    "u3": {"widgy": "Fog Night", "file": "fog.png"}
+  },
+  "extra_asset": {
+    "windy.png": "Kept in the icon set. Widgy Weather (Custom Images) / Symbol does not expose a dedicated Windy mapping slot in the verified working schema; use later as a conditional wind-speed override if desired."
+  },
+  "notes": [
+    "Cloudy Night intentionally reuses cloudy.png because the approved Home set has no separate overcast-night icon.",
+    "Rain Night and Showers Night intentionally share night_rain.png.",
+    "Night Snow and Night Fog reuse the same approved snow/fog artwork.",
+    "The HOME weather icon layer remains Weather (Custom Images) / Symbol, so Widgy selects the appropriate day/night slot automatically."
+  ]
+}

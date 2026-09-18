@@ -1,0 +1,224 @@
+[
+  {
+    "file": "clear_day.png",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "measured_core": [
+      712,
+      698
+    ],
+    "scale": 1.0112,
+    "output_canvas": [
+      1024,
+      1024
+    ],
+    "target_core_max": 720
+  },
+  {
+    "file": "clear_night.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "measured_core": [
+      755,
+      827
+    ],
+    "scale": 0.8706,
+    "output_canvas": [
+      1024,
+      1024
+    ],
+    "target_core_max": 720
+  },
+  {
+    "file": "cloudy.png",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "measured_core": [
+      653,
+      441
+    ],
+    "scale": 1.1026,
+    "output_canvas": [
+      1024,
+      1024
+    ],
+    "target_core_max": 720
+  },
+  {
+    "file": "fog.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "measured_core": [
+      842,
+      555
+    ],
+    "scale": 0.8551,
+    "output_canvas": [
+      1024,
+      1024
+    ],
+    "target_core_max": 720
+  },
+  {
+    "file": "heavy_rain.png",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "measured_core": [
+      649,
+      572
+    ],
+    "scale": 1.1094,
+    "output_canvas": [
+      1024,
+      1024
+    ],
+    "target_core_max": 720
+  },
+  {
+    "file": "light_rain.png",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "measured_core": [
+      674,
+      625
+    ],
+    "scale": 1.0682,
+    "output_canvas": [
+      1024,
+      1024
+    ],
+    "target_core_max": 720
+  },
+  {
+    "file": "night_rain.png",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "measured_core": [
+      629,
+      569
+    ],
+    "scale": 1.1447,
+    "output_canvas": [
+      1024,
+      1024
+    ],
+    "target_core_max": 720
+  },
+  {
+    "file": "night_thunderstorm.png",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "measured_core": [
+      643,
+      592
+    ],
+    "scale": 1.1198,
+    "output_canvas": [
+      1024,
+      1024
+    ],
+    "target_core_max": 720
+  },
+  {
+    "file": "partly_cloudy_day.png",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "measured_core": [
+      739,
+      575
+    ],
+    "scale": 0.9743,
+    "output_canvas": [
+      1024,
+      1024
+    ],
+    "target_core_max": 720
+  },
+  {
+    "file": "partly_cloudy_night.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "measured_core": [
+      1232,
+      1235
+    ],
+    "scale": 0.583,
+    "output_canvas": [
+      1024,
+      1024
+    ],
+    "target_core_max": 720,
+    "source_replaced_with": "אייקון_לילה_ניאוני_ענן_וסהר.png"
+  },
+  {
+    "file": "snow.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "measured_core": [
+      873,
+      949
+    ],
+    "scale": 0.7587,
+    "output_canvas": [
+      1024,
+      1024
+    ],
+    "target_core_max": 720
+  },
+  {
+    "file": "thunderstorm.png",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "measured_core": [
+      703,
+      618
+    ],
+    "scale": 1.0242,
+    "output_canvas": [
+      1024,
+      1024
+    ],
+    "target_core_max": 720
+  },
+  {
+    "file": "windy.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "measured_core": [
+      1063,
+      786
+    ],
+    "scale": 0.6773,
+    "output_canvas": [
+      1024,
+      1024
+    ],
+    "target_core_max": 720
+  }
+]
